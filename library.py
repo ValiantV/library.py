@@ -1,3 +1,4 @@
+#created by Ahnaf H. as university project for python scripting
 # Dictionary containing user credentials with usernames as keys and passwords as values.
 users = {
     "admin": "1234",
